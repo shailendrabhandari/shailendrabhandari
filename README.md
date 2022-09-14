@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a second year masters student (ACIT Data Science) in  Oslo Metropolitan University Oslo, Norway. 
+
+- 🔭 I’m currently working on my masters thesis- "Addressing problems in quantum computing with evolutionary algorithms"
+- 🌱 I’m currently learning machine learning and deep learning, Statistics, Quantum Computing, Cellular automata and Quantum IT.  
+- 📫 How to reach me: shailendra.vandari@gmail.com 
+
 <!--
 **Shailendra995/Shailendra995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
