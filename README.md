@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a second year masters student in ACIT Data Science, Oslo Metropolitan University Oslo, Norway. 
+As a PhD student specializing in Artificial Intelligence at Oslo Metropolitan University, Oslo, Norway, my academic journey has transitioned from my Master's in ACIT Data Science.
 
-- 🔭 I’m currently working on my masters thesis- "Addressing problems in quantum computing with evolutionary algorithms"
-- 🌱 I’m currently learning machine learning and deep learning, Statistics, Quantum Computing, Cellular automata and Quantum IT.  
-- 📫 How to reach me: shailendra.vandari@gmail.com 
+- 🔭 I am currently dedicated to a new research endeavor, the "Virtual-Eye" project, diverging from my Master's thesis topic.
+- 🌱 My educational focus now includes advanced AI concepts, while continuing to enhance my knowledge in machine learning, deep learning, statistics, quantum computing, cellular automata, and Quantum IT.
+- 📫 To contact me, please email shailendra.vandari@gmail.com.
 
 <!--
 **Shailendra995/Shailendra995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
