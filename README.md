@@ -4,7 +4,7 @@ As a PhD student specializing in Artificial Intelligence at Oslo Metropolitan Un
 
 - 🔭 I am currently dedicated to a new research endeavor, the "Virtual-Eye" project, diverging from my Master's thesis topic.
 - 🌱 My educational focus now includes advanced AI concepts, while continuing to enhance my knowledge in machine learning, deep learning, statistics, quantum computing, cellular automata, and Quantum IT.
-- 📫 To contact me, please email shailendra.vandari@gmail.com.
+- 📫 To contact me, please email shailendra.vandari@gmail.com/shailendra.bhandari@oslomet.no.
 
 <!--
 **Shailendra995/Shailendra995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
