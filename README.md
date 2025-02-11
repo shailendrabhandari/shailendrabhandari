@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-As a PhD student specializing in Artificial Intelligence at Oslo Metropolitan University, Oslo, Norway, my academic journey has transitioned from my Master's in ACIT Data Science.
+I am a PhD student in Artificial Intelligence at Oslomet-- Oslo Metropolitan University, Norway, building on my background from a Master’s in ACIT Data Science and a Masters in Nuclear and Energy Physics from Oslomet and University of Oslo respectively.
 
-- 🔭 I am currently dedicated to a new research endeavor, the "Virtual-Eye" project, diverging from my Master's thesis topic.
-- 🌱 My educational focus now includes advanced AI concepts, while continuing to enhance my knowledge in machine learning, deep learning, statistics, quantum computing, cellular automata, and Quantum IT.
+- 🔭 Currently, I am deeply engaged in a new research initiative, the "Virtual-Eye" project, marking a shift from my Master’s thesis.
+- 🌱 MMy academic focus includes advanced AI concepts, with a continued passion for machine learning, deep learning, statistics, quantum computing, cellular automata, and Quantum computing.
 - 📫 To contact me, please email shailendra.vandari@gmail.com/shailendra.bhandari@oslomet.no.
 
 <!--
